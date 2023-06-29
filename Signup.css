@@ -1,0 +1,14 @@
+#main {
+  border: 2px solid brown !important;
+  padding: 5px !important;
+  margin: 5px !important;
+  width: 70%;
+  height: 500px !important;
+  margin-left: 200px !important;
+}
+
+#btn {
+  width: 150px !important;
+  background-color: brown;
+  margin-left: 350px !important;
+}
